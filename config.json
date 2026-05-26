@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfetch",
+        "uuid": 8679460,
+        "checksum": "jo5rp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
